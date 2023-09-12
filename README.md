@@ -1,1 +1,1 @@
-# CL_Final_18_19
+Analyzing 18/19 Champions League final game event data using mplsoccer in Python
